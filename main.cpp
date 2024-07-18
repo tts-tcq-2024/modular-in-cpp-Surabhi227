@@ -1,3 +1,4 @@
+
 #include "ColorCoder.h"
 #include <assert.h>
 
@@ -24,3 +25,4 @@ int main() {
     TelCoColorCoder::PrintColorCodingReference();
     return 0;
 }
+
